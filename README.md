@@ -1,2 +1,2 @@
-# quick-calculator
+# Calculator
 Made a quick little terminal calculator 
